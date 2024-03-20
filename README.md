@@ -1,4 +1,4 @@
-# PROJECTS
+# MY PORTFOLIO HIGHLIGHTS
 
 ## Seattle's Housing Market
 ![House Sales](https://cdn.gobankingrates.com/wp-content/uploads/2017/12/9b-home-sold-iStock-154050490.jpg?webp=1&w=675&quality=75)
