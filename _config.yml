@@ -1,5 +1,5 @@
 title: Your Site Title
-logo:
+#logo:
+#description:
 show_dowloads: True
-description:
 theme: jekyll-theme-minimal
