@@ -3,7 +3,7 @@
 ## Seattle's Housing Market
 ![House Sales](https://cdn.gobankingrates.com/wp-content/uploads/2017/12/9b-home-sold-iStock-154050490.jpg?webp=1&w=675&quality=75)
 
-The objective of the Seattle's Housing Market's project is to uncover the determinant of house prices in this area. The square footage of the house emerged as the most likely determinant, boasting the strongest correlation with price. As I delved deeper, other factors emerged. The house condition (good or bad), grade attached to the house, and waterfront status all played roles, with grade standing out for its significant impact on price. Informed by the preliminary analysis, I zoomed in on square footage. I highlighted its importance by providing a clear demonstration of its greater influence on house prices.
+The objective of the Seattle's Housing Market's project is to uncover the determinants of house prices in this area. The square footage of the house emerged as the most likely determinant, boasting the strongest correlation with price. As I delved deeper, other factors emerged. The house condition (good or bad), grade attached to the house, and waterfront status all played roles, with grade standing out for its significant impact on price. Informed by the preliminary analysis, I zoomed in on square footage. I highlighted its importance by providing a clear demonstration of its greater influence on house prices.
 In the end, my findings painted a straightforward picture: in Seattle's housing market, size matters. And armed with this knowledge, buyers and sellers alike could navigate the market with confidence... [See full project.](https://github.com/abdulwasiuabdulraheem/House-Sales-Data-Exploration/blob/main/Part_I_exploration.ipynb)
 
 ## Analyzing WeRateDogs Tweets
