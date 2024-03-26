@@ -1,15 +1,15 @@
 # MY PORTFOLIO HIGHLIGHTS
 
+## Analyzing WeRateDogs Tweets
+![WeRateDogs](https://i.pinimg.com/736x/f8/14/91/f814913ff92624b0f1167ec41e0d1891.jpg)
+
+In this project, I undertook the intricate task of wrangling and analysing datasets containing the tweet archive of WeRateDogs. Renowned for its humorous dog ratings, this Twitter account, under the handle @dog_rates, captivates audiences with its witty comments and unconventional rating system. Through rigorous analysis, I uncovered intriguing revelations. The majority of dog rating tweets featured a single image, while a small percentage showcased multiple images, with those containing four images garnering the highest engagement in terms of retweets and favourites. Further exploration revealed the most prominent dog breeds in WeRateDogs tweets, with Golden Retrievers, Labrador Retrievers, Pembrokes, Chihuahuas, and Pugs stealing the spotlight. These breeds made up 23% of the featured dogs, captivating audiences with their charm and charisma. Also, a typical dog rating on WeRateDogs falls within the range of 10/10 to 13/10. In "unravelling the mysteries" of WeRateDogs, I unleashed a wealth of insights into the captivating world of dog rating culture...[See full project.](https://github.com/abdulwasiuabdulraheem/twitter-archive-data-wrangling-udacity/blob/main/wrangle_act.ipynb)  
+
 ## Seattle's Housing Market
 ![House Sales](https://cdn.gobankingrates.com/wp-content/uploads/2017/12/9b-home-sold-iStock-154050490.jpg?webp=1&w=675&quality=75)
 
 The objective of the Seattle's Housing Market's project is to uncover the determinants of house prices in this area. The square footage of the house emerged as the most likely determinant, boasting the strongest correlation with price. As I delved deeper, other factors emerged. The house condition (good or bad), grade attached to the house, and waterfront status all played roles, with grade standing out for its significant impact on price. Informed by the preliminary analysis, I zoomed in on square footage. I highlighted its importance by providing a clear demonstration of its greater influence on house prices.
 In the end, my findings painted a straightforward picture: in Seattle's housing market, size matters. And armed with this knowledge, buyers and sellers alike could navigate the market with confidence... [See full project.](https://github.com/abdulwasiuabdulraheem/House-Sales-Data-Exploration/blob/main/Part_I_exploration.ipynb)
-
-## Analyzing WeRateDogs Tweets
-![WeRateDogs](https://i.pinimg.com/736x/f8/14/91/f814913ff92624b0f1167ec41e0d1891.jpg)
-
-In this project, I undertook the intricate task of wrangling and analysing datasets containing the tweet archive of WeRateDogs. Renowned for its humorous dog ratings, this Twitter account, under the handle @dog_rates, captivates audiences with its witty comments and unconventional rating system. Through rigorous analysis, I uncovered intriguing revelations. The majority of dog rating tweets featured a single image, while a small percentage showcased multiple images, with those containing four images garnering the highest engagement in terms of retweets and favourites. Further exploration revealed the most prominent dog breeds in WeRateDogs tweets, with Golden Retrievers, Labrador Retrievers, Pembrokes, Chihuahuas, and Pugs stealing the spotlight. These breeds made up 23% of the featured dogs, captivating audiences with their charm and charisma. Also, a typical dog rating on WeRateDogs falls within the range of 10/10 to 13/10. In "unravelling the mysteries" of WeRateDogs, I unleashed a wealth of insights into the captivating world of dog rating culture...[See full project.](https://github.com/abdulwasiuabdulraheem/twitter-archive-data-wrangling-udacity/blob/main/wrangle_act.ipynb)  
 
 ## Understanding Medical Appointment Attendance in Brazil
 ![Medical Appointment Attendance](https://rioonwatch.org/wp-content/uploads/2013/07/filaemhospital.jpg) 
