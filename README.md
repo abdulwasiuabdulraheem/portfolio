@@ -1,5 +1,9 @@
 # MY PORTFOLIO HIGHLIGHTS
 
+## Empowering PalyRA's Financial Future Through Predictive Loan Repayment Models 
+![classifiers](https://www.unite.ai/wp-content/uploads/2023/04/ai-loans.png)
+PalyRA, a short-term loan provider, grapples with persistent bad debt, recovering only 65% of loans in the past year. This jeopardises its operations, prompting management to devise a solution. A pivotal aspect of their strategy involves employing a data scientist to develop a predictive model for loan repayment. Tasked with this endeavour, I  gathered PalyRA's historical data, which contains information about past loans. Donning my data scientist's mantle, I delved into building alternative machine learning models aimed at predicting loan repayment defaults. This initiative seeks to reshape PalyRA's trajectory within the finance sector, fortifying its resilience against default risks.  By leveraging advanced analytics and predictive algorithms, the model aspires to mitigate bad debt occurrences, bolstering PalyRA's financial stability. Through this concerted effort, PalyRA endeavours to transcend its current challenges and chart a path towards sustainable growth and success in the competitive landscape of short-term lending....[See full project.](https://github.com/abdulwasiuabdulraheem/The-Best-Classifier/blob/main/The_Best_Classifier.ipynb) 
+
 ## WeRateDogs Tweets' Data Wrangling and Analysis
 ![WeRateDogs](https://i.pinimg.com/736x/f8/14/91/f814913ff92624b0f1167ec41e0d1891.jpg)
 
@@ -16,9 +20,6 @@ In the end, my findings painted a straightforward picture: in Seattle's housing 
 
 In this data analytics project, I sought to unravel the factors influencing medical appointment show-up rates in Brazil. The objective was to dissect the impact of various factors such as SMS reminders, diabetes status, hypertension, and gender. The findings revealed compelling insights. While the overall show-up rate stood at 79.8%, patients who didn't receive SMS reminders exhibited a higher attendance rate compared to those who did. Additionally, individuals with diabetes displayed a slightly higher show-up rate, suggesting a nuanced relationship between health status and appointment adherence. Gender dynamics also surfaced prominently, with females comprising higher percentage of the total attendance and exhibiting a higher prevalence of hypertension compared to males... [See full project.](https://github.com/abdulwasiuabdulraheem/Investigation-of-Medical-Appointment-Dataset/blob/main/Investigate_a_Dataset.ipynb)
 
-## Predicting Loan Repayment
-![classifiers](https://www.unite.ai/wp-content/uploads/2023/04/ai-loans.png)
-For this mini project, I tackled the task of developing a classifier to predict whether a loan will be paid off or not. Beginning with the loading and cleaning of a historical dataset containing loan application data, I meticulously prepared the data for analysis. Employing a variety of classification algorithms, including k-Nearest Neighbour, Decision Tree, Support Vector Machine, and Logistic Regression, I explored different approaches to modelling loan repayment outcomes. Each algorithm was carefully evaluated for its accuracy and performance using key metrics such as the Jaccard index, F1-score, and LogLoss. The results of the analysis were reported comprehensively, providing insights into the efficacy of each classifier in predicting loan repayment. By examining the accuracy and performance of the models across multiple metrics, I gained valuable insights into the strengths and limitations of each algorithm...[See full project.](https://github.com/abdulwasiuabdulraheem/The-Best-Classifier/blob/main/The_Best_Classifier.ipynb) 
 
 ## Detection of Flower Species
 ![Flowers](https://miro.medium.com/v2/resize:fit:640/format:webp/0*rhP_m_pskOF_MUad)
