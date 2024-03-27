@@ -1,6 +1,6 @@
 # MY PORTFOLIO HIGHLIGHTS
 
-## Analyzing WeRateDogs Tweets
+## WeRateDogs Tweets Data Wrangling and Analysis
 ![WeRateDogs](https://i.pinimg.com/736x/f8/14/91/f814913ff92624b0f1167ec41e0d1891.jpg)
 
 In this project, I undertook the intricate task of wrangling and analysing datasets containing the tweet archive of WeRateDogs. It is an extremely messy and dirty dataset. Renowned for its humorous dog ratings, this Twitter account, under the handle @dog_rates, captivates audiences with its witty comments and unconventional rating system. Through rigorous analysis, I uncovered some interesting facts about WeRateDogs tweets. The majority of dog rating tweets featured a single image, while a small percentage showcased multiple images, with those containing four images garnering the highest engagement in terms of Retweets and Likes. Further exploration showed that the most prominent dog breeds in WeRateDogs tweets are Golden Retrievers, Labrador Retrievers, Pembrokes, Chihuahuas, and Pugs. These breeds collectively constituted about 23% of the featured dogs, captivating audiences with their charm and charisma. Also, a typical dog rating on WeRateDogs falls within the range of 10/10 to 13/10. Yes, you read that correctly: 10/10 to <b>13/10</b>...[See full project.](https://github.com/abdulwasiuabdulraheem/twitter-archive-data-wrangling-udacity/blob/main/wrangle_act.ipynb)  
