@@ -1,6 +1,6 @@
 # MY PORTFOLIO HIGHLIGHTS
 
-## Fortifying PalyRA's Financial Future Through Predictive Loan Repayment Models 
+## Fortifying PalyRA's Financial Future Against Loan Defaults Using Predictive Models 
 ![classifiers](https://www.unite.ai/wp-content/uploads/2023/04/ai-loans.png)
 
 PalyRA, a short-term loan provider, grapples with persistent bad debt, recovering only 65% of loans in the past year. This jeopardises its operations, prompting management to devise a solution. A pivotal aspect of their strategy involves employing a data scientist to develop a predictive model for loan repayment. Tasked with this endeavour, I  gathered PalyRA's historical data, which contained information about past loans. Donning my data scientist's mantle, I delved into building alternative machine learning models aimed at predicting loan repayment defaults. The goal was to reshape PalyRA's trajectory within the finance sector, fortifying its resilience against default risks.  Through continuous optimisation and fine-tuning, the models would help mitigate bad debt occurrences, bolstering PalyRA's financial stability...[See full project.](https://github.com/abdulwasiuabdulraheem/The-Best-Classifier/blob/main/The_Best_Classifier.ipynb) 
